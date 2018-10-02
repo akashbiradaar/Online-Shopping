@@ -2,6 +2,7 @@
 # A Python e-commerce web application.
 
 # Key features of website
+- Homepage
 - Register
 - Login
 - Products
@@ -16,6 +17,69 @@
 - REST API
 
 
+- 1) Homepage
+
+Homepage of Website
+
+
+![](Screenshots/homepage.png)
+
+
+
+
 - 1) Register
-[homepage.png]
+![](Screenshots/homepage.png)
+
+
+
+- 1) Login
+![](Screenshots/homepage.png)
+
+
+- 1) Homepage
+![](Screenshots/homepage.png)
+
+
+
+- 1) Homepage
+![](Screenshots/homepage.png)
+
+
+
+- 1) Homepage
+
+![](Screenshots/homepage.png)
+
+
+
+- 1) Homepage
+
+![](Screenshots/homepage.png)
+
+
+
+- 1) Homepage
+![](Screenshots/homepage.png)
+
+
+
+- 1) Homepage
+![](Screenshots/homepage.png)
+
+
+- 1) Homepage
+![](Screenshots/homepage.png)
+
+
+- 1) Homepage
+![](Screenshots/homepage.png)
+
+
+- 1) Homepage
+![](Screenshots/homepage.png)
+
+
+
+- 1) Homepage
+![](Screenshots/homepage.png)
 
