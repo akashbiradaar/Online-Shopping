@@ -1,7 +1,7 @@
 # Online-Shopping
 # A Python e-commerce web application.
 
--- Products
+- Products
 Register
 Login
 Shopping cart
