@@ -1,12 +1,20 @@
 ## Online-Shopping
 # A Python e-commerce web application.
 
-- Products
+# Key features of website
 - Register
 - Login
-- Shopping cart
-- Catalogue
+- Products
 - Search
+- Shopping Cart
 - Checkout
+- Catalogue
+- Payment
+- Order Confirmation
+- Contact
 - Administration
 - REST API
+
+
+- 1) Register
+
