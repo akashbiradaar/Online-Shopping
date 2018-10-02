@@ -17,4 +17,5 @@
 
 
 - 1) Register
+[homepage.png]
 
