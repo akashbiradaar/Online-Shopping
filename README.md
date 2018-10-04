@@ -65,13 +65,13 @@
 
 ---
 
-9. Add Shpping Address
+9. Add Shipping Address
 
 ![](Screenshots/Shpping%20Address.PNG)
 
 ---
 
-10. Add Shpping Address
+10. Add Billing Address
 
 ![](Screenshots/Billing%20Address.PNG)
 
@@ -98,4 +98,10 @@
 14. Contact for Help
 
 ![](Screenshots/Contact.PNG)
+
+---
+
+15. Contact Confirmation
+
+![](Screenshots/Contact%20Confirmation.PNG)
 
