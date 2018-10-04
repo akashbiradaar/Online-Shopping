@@ -19,7 +19,7 @@
 
 ##### 1. Homepage of Website
 
-![](Screenshots/homepage.PNG)
+![](Screenshots/homepage.Png)
 
 ---
 
@@ -49,7 +49,7 @@
 
 6. View Product
 
-![](Screenshots/View Product.PNG)
+![](Screenshots/View%20Product.PNG)
 
 ---
 
