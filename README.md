@@ -77,7 +77,7 @@
 
 ---
 
-#### 11. Do Final Checkout
+#### 11. Confirm Final Checkout
 
 ![](Screenshots/Final%20Checkout.PNG)
 
