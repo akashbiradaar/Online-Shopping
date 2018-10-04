@@ -19,7 +19,7 @@
 
 ##### 1. Homepage of Website
 
-![](Screenshots/homepage.Png)
+![](Screenshots/homepage.png)
 
 ---
 
@@ -43,7 +43,7 @@
 
 5. More Products
 
-![](Screenshots/Products 2.PNG)
+![](Screenshots/Products%202.PNG)
 
 ---
 
@@ -67,31 +67,31 @@
 
 9. Add Shpping Address
 
-![](Screenshots/Shpping Address.PNG)
+![](Screenshots/Shpping%20Address.PNG)
 
 ---
 
 10. Add Shpping Address
 
-![](Screenshots/Billing Address.PNG)
+![](Screenshots/Billing%20Address.PNG)
 
 ---
 
 11. Do Final Checkout
 
-![](Screenshots/Final Checkout.PNG)
+![](Screenshots/Final%20Checkout.PNG)
 
 ---
 
 12. Do Payment
 
-![](Screenshots/Payment Method.PNG)
+![](Screenshots/Payment%20Method.PNG)
 
 ---
 
 13. Order Confirmation
 
-![](Screenshots/Order Confirmation.PNG)
+![](Screenshots/Order%20Confirmation.PNG)
 
 ---
 
