@@ -31,65 +31,71 @@
 
 3. Login
 
-![](Screenshots/homepage.png)
+![](Screenshots/Login.png)
 
 ---
 
-4. Homepage
+4. Products
 
-![](Screenshots/homepage.png)
-
----
-
-5. Homepage
-
-![](Screenshots/homepage.png)
+![](Screenshots/Products.png)
 
 ---
 
-6. Homepage
+5. More Products
 
-![](Screenshots/homepage.png)
-
----
-
-7. Homepage
-
-![](Screenshots/homepage.png)
+![](Screenshots/Products 2.png)
 
 ---
 
-8. Homepage
+6. View Product
 
-![](Screenshots/homepage.png)
-
----
-
-9. Homepage
-
-![](Screenshots/homepage.png)
+![](Screenshots/View Product.png)
 
 ---
 
-10. Homepage
+7. Add to Cart
 
-![](Screenshots/homepage.png)
-
----
-
-11. Homepage
-
-![](Screenshots/homepage.png)
+![](Screenshots/Cart.png)
 
 ---
 
-12. Homepage
+8. Checkout
 
-![](Screenshots/homepage.png)
+![](Screenshots/Checkout.png)
 
 ---
 
-13. Homepage
+9. Add Shpping Address
 
-![](Screenshots/homepage.png)
+![](Screenshots/Shpping Address.png)
+
+---
+
+10. Add Shpping Address
+
+![](Screenshots/Billing Address.png)
+
+---
+
+11. Do Final Checkout
+
+![](Screenshots/Final Checkout.png)
+
+---
+
+12. Do Payment
+
+![](Screenshots/Payment Method.png)
+
+---
+
+13. Order Confirmation
+
+![](Screenshots/Order Confirmation.png)
+
+---
+
+14. Contact for Help
+
+![](Screenshots/Contact.png)
 
