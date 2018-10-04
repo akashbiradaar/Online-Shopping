@@ -1,7 +1,7 @@
-## Online-Shopping
-# A Python e-commerce web application.
+# Online-Shopping
+## A Python e-commerce web application.
 
-# Key features of website
+### Key features of website
 - Homepage
 - Register
 - Login
@@ -17,69 +17,79 @@
 - REST API
 
 
-- 1) Homepage
-
-Homepage of Website
-
+##### 1. Homepage of Website
 
 ![](Screenshots/homepage.png)
 
+---
 
+2. Register
 
+![](Screenshots/Register.PNG)
 
-- 1) Register
-![](Screenshots/homepage.png)
+---
 
-
-
-- 1) Login
-![](Screenshots/homepage.png)
-
-
-- 1) Homepage
-![](Screenshots/homepage.png)
-
-
-
-- 1) Homepage
-![](Screenshots/homepage.png)
-
-
-
-- 1) Homepage
+3. Login
 
 ![](Screenshots/homepage.png)
 
+---
 
-
-- 1) Homepage
+4. Homepage
 
 ![](Screenshots/homepage.png)
 
+---
 
+5. Homepage
 
-- 1) Homepage
 ![](Screenshots/homepage.png)
 
+---
 
+6. Homepage
 
-- 1) Homepage
 ![](Screenshots/homepage.png)
 
+---
 
-- 1) Homepage
+7. Homepage
+
 ![](Screenshots/homepage.png)
 
+---
 
-- 1) Homepage
+8. Homepage
+
 ![](Screenshots/homepage.png)
 
+---
 
-- 1) Homepage
+9. Homepage
+
 ![](Screenshots/homepage.png)
 
+---
 
+10. Homepage
 
-- 1) Homepage
+![](Screenshots/homepage.png)
+
+---
+
+11. Homepage
+
+![](Screenshots/homepage.png)
+
+---
+
+12. Homepage
+
+![](Screenshots/homepage.png)
+
+---
+
+13. Homepage
+
 ![](Screenshots/homepage.png)
 
